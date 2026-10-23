@@ -1,13 +1,13 @@
 ### Projeto P.A com integrantes:
-- Carlos Eduardo Marques Gracia
-- Erick Giardini
-- Isabella Sales
-- Luan Miguel Pontes
-- Matheus Henrique
-- Pietro Henrique
-- Leonardo Tarifa
-- Mickael Almeida
+- Carlos Eduardo Marques Gracia --Progamador 👾
+- Erick Giardini --Progamador 👾
+- Isabella Sales --Apresentador 🎙️
+- Luan Miguel Pontes Apresentador 🎙️
+- Matheus Henrique Apresentador 🎙️
+- Pietro Henrique Apresentador 🎙️
+- Leonardo Tarifa --Progamador 👾
+- Mickael Almeida Apresentador 🎙️
 
 
 
-## 📖 - Projeto de Progamação e Algortimo aonde temos que apresentar sobre a Ergonomia com os Seguintes tópicos:
+## 📖 - Projeto de Progamação e Algortimo aonde ir
