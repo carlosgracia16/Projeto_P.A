@@ -1,4 +1,4 @@
-### Projeto P.A com integrantes:
+## Projeto P.A com integrantes:
 - Carlos Eduardo Marques Gracia  -  Progamador 👾
 - Erick Giardini  -  Progamador 👾
 - Isabella Sales  -  Apresentador 🎙️
