@@ -12,4 +12,10 @@
 
 ## 📖 - Projeto de Progamação e Algoritimo iremos apresentar os seguintes tópicos:
 
-+
+
+### Item 1 - Condições Ambientais de trabalho:
++ Fatores Ambientais: Iluminação, Ruído temperatura e Ventilação.
++ Impactos de saúde e produtividade
++ Tipos de ambiente: escritório aberto, cabinete, home office.
++ Normas e referências (NR-17)
++ Avaliação ambiental prática 
