@@ -48,5 +48,7 @@
 
 ### Normas:
 -**ABNT NBR 6023:2025      Elaboração de  referências**
+
 -**ABNT NBR 10520:2023     Apresentação de  citações em documentos**
+
 -**ABNT NBR 14724:2024     Apresentação de trabalhos acadêmicos**
