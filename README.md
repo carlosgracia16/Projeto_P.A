@@ -13,7 +13,7 @@
 ## 📖 - Projeto de Progamação e Algoritimo iremos apresentar os seguintes tópicos:
 
 
-### Item 1 - Condições Ambientais de trabalho:
+### 🖼️ Item 1 - Condições Ambientais de trabalho:
 + Fatores Ambientais: Iluminação, Ruído temperatura e Ventilação.
 + Impactos de saúde e produtividade
 + Tipos de ambiente: escritório aberto, cabinete, home office.
@@ -21,7 +21,7 @@
 + Avaliação ambiental prática
 
 
-### Item 2: Adequação dos postos de trabalho:
+### 🏡 Item 2: Adequação dos postos de trabalho:
 + Altura da mesa e cadeira
 + Posicionamento do monitor (distância e ângulo)
 + Teclado e mouse: distância e altura
@@ -29,7 +29,7 @@
 + Medição prática e comparação com NR-17
 
 
-### Item 3: Pausas durante a jornada de trabalho:
+### ☕ Item 3: Pausas durante a jornada de trabalho:
 - Riscos da jornada contínua sem pausas
 -  Técnica Pomodoro e variações
 - longamentos para punhos, coluna e pescoço
@@ -37,7 +37,7 @@
 - Rotina de pausas personalizada
 
 
-### Desenvolvimento da tarefa em etapas:
+### 👥 Desenvolvimento da tarefa em etapas:
 1. formar grupos;
 2. escolher um problema para cada Item;
 3. listar entradas/saídas;
@@ -46,7 +46,7 @@
 6. Formato da pesquisa utilizando ISO.
 
 
-### Normas:
+### 📕 Normas:
 -**ABNT NBR 6023:2025      Elaboração de  referências**
 
 -**ABNT NBR 10520:2023     Apresentação de  citações em documentos**
